@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  🎓 College Placement Management System
 
 A **College Placement Management System** built with **Python (Streamlit)** and **MongoDB Atlas** for database storage.  
@@ -62,3 +63,6 @@ cd college-placement-system\
 
 Install Dependencies
 pip install -r requirements.txt
+=======
+# College-Placement-Management-System-Using-Python
+>>>>>>> 13171ad47e11a421e875aae907289b7a07301eba
